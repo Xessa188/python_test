@@ -1,4 +1,4 @@
-# Requirements Design & EC/BV
+# Requirements Design, EC/BV & Test Case Design
 
 [🔗 Click here to view the Google Sheet](https://docs.google.com/spreadsheets/d/1BOeksGA5oWXE7ZgPqmtmCbhdXT_TwzXNc1QoOLsIlxY/edit?gid=2127844572#gid=2127844572)
 
